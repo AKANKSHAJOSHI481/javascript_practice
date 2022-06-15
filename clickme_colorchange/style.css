@@ -1,0 +1,29 @@
+#container{
+    height: 700px; 
+    background-color: red;
+}
+#background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content{
+    display: flex;
+    justify-content: center; 
+    align-items: center;               
+}
+
+#btn{
+    font-size:25px;
+    font-weight:bold;
+}
+
+#background{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p::first-letter{
+    font-size: 70px;
+    color: #fff;
+}
